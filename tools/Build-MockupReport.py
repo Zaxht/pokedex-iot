@@ -17,7 +17,7 @@ pdfmetrics.registerFont(TTFont("UIReport", "C:/Windows/Fonts/arial.ttf"))
 pdfmetrics.registerFont(TTFont("UIReportBold", "C:/Windows/Fonts/arialbd.ttf"))
 pdfmetrics.registerFontFamily("UIReport", normal="UIReport", bold="UIReportBold")
 c = canvas.Canvas(str(output), pagesize=A4)
-c.setTitle("Informe de mockups de Pokédex IoT")
+c.setTitle("Pokédex IoT")
 c.setAuthor("Proyecto Pokédex IoT")
 W,H = A4
 
@@ -44,12 +44,8 @@ def node(label,x,y,w=146,h=42):
     c.setFillColor(colors.HexColor("#EAF0DF")); c.setStrokeColor(colors.HexColor("#879A7E"));c.roundRect(x,y,w,h,8,stroke=1,fill=1)
     text(label,x+9,y+h-11,w-18,10,True)
 
-text("Informe de mockups",42,H-45,510,26,True)
-text("Pokédex IoT",42,H-86,510,20,True)
-text("Unidad 2 · Interfaz Android · 28 de octubre de 2026",42,H-121,510,10)
-y=text("Este documento presenta diez vistas de la aplicación: acceso, vinculación, colección, lista, cámara, ficha, especie desconocida, amigos, ajustes y control del dispositivo. Su propósito es mostrar la distribución de la interfaz y los recorridos de navegación.",42,H-163,510,11)
-y=text("Los mockups se documentan a partir del diseño actual de la versión 0.11. Son composiciones visuales con datos de ejemplo, no capturas de una prueba en un teléfono.",42,y-13,510,10)
-y=text("Criterios de diseño",42,y-26,510,15,True)
+text("Pokédex IoT",42,H-45,510,26,True)
+y=text("Criterios de diseño",42,H-111,510,15,True)
 for line in [
     "Carcasa roja, lente azul y pantalla verde para mantener la identidad gráfica de una Pokédex.",
     "Navegación inferior mediante tres iconos: colección, escáner y amigos. El engranaje concentra los ajustes.",
