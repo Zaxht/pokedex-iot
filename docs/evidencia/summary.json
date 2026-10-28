@@ -1,0 +1,181 @@
+{
+  "generatedAtUtc": "2026-10-28T17:46:56.090738+00:00",
+  "scope": "JUnit on JVM; AccountApi HTTP loopback and temporary SQLite; production PcClient HTTPS against temporary certificate; virtual Arduino. No Android emulator, physical phone or Arduino execution, no Ollama inference.",
+  "version": "0.11.0",
+  "totals": {
+    "tests": 56,
+    "failures": 0,
+    "errors": 0,
+    "skipped": 0
+  },
+  "suites": [
+    {
+      "module": "app",
+      "name": "cl.pokedex.iot.ArduinoTransportTest",
+      "timestamp": "2026-10-28T17:44:16.543Z",
+      "tests": 3,
+      "failures": 0,
+      "errors": 0,
+      "skipped": 0,
+      "seconds": 0.082
+    },
+    {
+      "module": "app",
+      "name": "cl.pokedex.iot.CatalogTest",
+      "timestamp": "2026-10-28T17:44:16.628Z",
+      "tests": 2,
+      "failures": 0,
+      "errors": 0,
+      "skipped": 0,
+      "seconds": 0.037
+    },
+    {
+      "module": "app",
+      "name": "cl.pokedex.iot.DeviceStabilityTest",
+      "timestamp": "2026-10-28T17:44:16.676Z",
+      "tests": 2,
+      "failures": 0,
+      "errors": 0,
+      "skipped": 0,
+      "seconds": 0.129
+    },
+    {
+      "module": "app",
+      "name": "cl.pokedex.iot.DeviceSyncTest",
+      "timestamp": "2026-10-28T17:44:16.810Z",
+      "tests": 13,
+      "failures": 0,
+      "errors": 0,
+      "skipped": 0,
+      "seconds": 0.036
+    },
+    {
+      "module": "app",
+      "name": "cl.pokedex.iot.LiveSessionTest",
+      "timestamp": "2026-10-28T17:44:16.849Z",
+      "tests": 2,
+      "failures": 0,
+      "errors": 0,
+      "skipped": 0,
+      "seconds": 0.001
+    },
+    {
+      "module": "app",
+      "name": "cl.pokedex.iot.PairingTest",
+      "timestamp": "2026-10-28T17:44:16.854Z",
+      "tests": 3,
+      "failures": 0,
+      "errors": 0,
+      "skipped": 0,
+      "seconds": 0.022
+    },
+    {
+      "module": "app",
+      "name": "cl.pokedex.iot.PcClientSecurityTest",
+      "timestamp": "2026-10-28T17:44:18.611Z",
+      "tests": 3,
+      "failures": 0,
+      "errors": 0,
+      "skipped": 0,
+      "seconds": 0.219
+    },
+    {
+      "module": "app",
+      "name": "cl.pokedex.iot.PcSettingsTest",
+      "timestamp": "2026-10-28T17:44:18.838Z",
+      "tests": 4,
+      "failures": 0,
+      "errors": 0,
+      "skipped": 0,
+      "seconds": 0.003
+    },
+    {
+      "module": "server",
+      "name": "cl.pokedex.server.AcceptanceTest",
+      "timestamp": "2026-10-28T17:44:47.128Z",
+      "tests": 4,
+      "failures": 0,
+      "errors": 0,
+      "skipped": 0,
+      "seconds": 7.798
+    },
+    {
+      "module": "server",
+      "name": "cl.pokedex.server.AccountApiTest",
+      "timestamp": "2026-10-28T17:44:54.928Z",
+      "tests": 1,
+      "failures": 0,
+      "errors": 0,
+      "skipped": 0,
+      "seconds": 0.422
+    },
+    {
+      "module": "server",
+      "name": "cl.pokedex.server.DatabaseTest",
+      "timestamp": "2026-10-28T17:44:55.353Z",
+      "tests": 8,
+      "failures": 0,
+      "errors": 0,
+      "skipped": 0,
+      "seconds": 3.453
+    },
+    {
+      "module": "server",
+      "name": "cl.pokedex.server.OllamaReplyTest",
+      "timestamp": "2026-10-28T17:44:58.808Z",
+      "tests": 4,
+      "failures": 0,
+      "errors": 0,
+      "skipped": 0,
+      "seconds": 0.014
+    },
+    {
+      "module": "server",
+      "name": "cl.pokedex.server.PairingTest",
+      "timestamp": "2026-10-28T17:44:58.824Z",
+      "tests": 2,
+      "failures": 0,
+      "errors": 0,
+      "skipped": 0,
+      "seconds": 0.222
+    },
+    {
+      "module": "server",
+      "name": "cl.pokedex.server.ProtocolTest",
+      "timestamp": "2026-10-28T17:44:59.050Z",
+      "tests": 5,
+      "failures": 0,
+      "errors": 0,
+      "skipped": 0,
+      "seconds": 0.011
+    }
+  ],
+  "metrics": [
+    {
+      "unconfirmed": 0,
+      "scenario": "virtual_device_roundtrips",
+      "cycles": 1000,
+      "elapsedMs": 80.7871
+    },
+    {
+      "clients": 2,
+      "successes": 200,
+      "scenario": "two_clients_loopback",
+      "p95Ms": 63.136,
+      "maxMs": 279.9947,
+      "requests": 200,
+      "requestsPerSecond": 49.11557582609943,
+      "elapsedMs": 4072.028,
+      "medianMs": 21.3895
+    }
+  ],
+  "lint": {
+    "Warning": 17,
+    "Information": 1
+  },
+  "apk": {
+    "path": "app\\build\\outputs\\apk\\debug\\app-debug.apk",
+    "bytes": 42367834,
+    "sha256": "377dd1e88b67a6e63f90be50f2eaf1e499b106482e284580ad26057777604735"
+  }
+}
