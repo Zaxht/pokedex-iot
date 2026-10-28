@@ -1,0 +1,2877 @@
+{
+  "sources": {
+    "pokeapi": "2bf639e5572812a67d2b94903fdcb9d095f5aeb2",
+    "sprites": "d8c2fb78563e28ad7b3abe938cf6e79998d04e90"
+  },
+  "pokemon": [
+    {
+      "id": 1,
+      "slug": "bulbasaur",
+      "name": "Bulbasaur",
+      "category": "Pokémon Semilla",
+      "height": "0,7 m",
+      "weight": "6,9 kg",
+      "abilities": "Espesura · Clorofila (oculta)",
+      "stats": [
+        45,
+        49,
+        49,
+        65,
+        65,
+        45
+      ],
+      "type": "Planta · Veneno",
+      "description": "Se clasifica como Pokémon Semilla. Mide 0,7 metros y pesa 6,9 kilogramos."
+    },
+    {
+      "id": 2,
+      "slug": "ivysaur",
+      "name": "Ivysaur",
+      "category": "Pokémon Semilla",
+      "height": "1 m",
+      "weight": "13 kg",
+      "abilities": "Espesura · Clorofila (oculta)",
+      "stats": [
+        60,
+        62,
+        63,
+        80,
+        80,
+        60
+      ],
+      "type": "Planta · Veneno",
+      "description": "Se clasifica como Pokémon Semilla. Mide 1 metro y pesa 13 kilogramos."
+    },
+    {
+      "id": 3,
+      "slug": "venusaur",
+      "name": "Venusaur",
+      "category": "Pokémon Semilla",
+      "height": "2 m",
+      "weight": "100 kg",
+      "abilities": "Espesura · Clorofila (oculta)",
+      "stats": [
+        80,
+        82,
+        83,
+        100,
+        100,
+        80
+      ],
+      "type": "Planta · Veneno",
+      "description": "Se clasifica como Pokémon Semilla. Mide 2 metros y pesa 100 kilogramos."
+    },
+    {
+      "id": 4,
+      "slug": "charmander",
+      "name": "Charmander",
+      "category": "Pokémon Lagartija",
+      "height": "0,6 m",
+      "weight": "8,5 kg",
+      "abilities": "Mar Llamas · Poder Solar (oculta)",
+      "stats": [
+        39,
+        52,
+        43,
+        60,
+        50,
+        65
+      ],
+      "type": "Fuego",
+      "description": "Se clasifica como Pokémon Lagartija. Mide 0,6 metros y pesa 8,5 kilogramos."
+    },
+    {
+      "id": 5,
+      "slug": "charmeleon",
+      "name": "Charmeleon",
+      "category": "Pokémon Llama",
+      "height": "1,1 m",
+      "weight": "19 kg",
+      "abilities": "Mar Llamas · Poder Solar (oculta)",
+      "stats": [
+        58,
+        64,
+        58,
+        80,
+        65,
+        80
+      ],
+      "type": "Fuego",
+      "description": "Se clasifica como Pokémon Llama. Mide 1,1 metros y pesa 19 kilogramos."
+    },
+    {
+      "id": 6,
+      "slug": "charizard",
+      "name": "Charizard",
+      "category": "Pokémon Llama",
+      "height": "1,7 m",
+      "weight": "90,5 kg",
+      "abilities": "Mar Llamas · Poder Solar (oculta)",
+      "stats": [
+        78,
+        84,
+        78,
+        109,
+        85,
+        100
+      ],
+      "type": "Fuego · Volador",
+      "description": "Se clasifica como Pokémon Llama. Mide 1,7 metros y pesa 90,5 kilogramos."
+    },
+    {
+      "id": 7,
+      "slug": "squirtle",
+      "name": "Squirtle",
+      "category": "Pokémon Tortuguita",
+      "height": "0,5 m",
+      "weight": "9 kg",
+      "abilities": "Torrente · Cura Lluvia (oculta)",
+      "stats": [
+        44,
+        48,
+        65,
+        50,
+        64,
+        43
+      ],
+      "type": "Agua",
+      "description": "Se clasifica como Pokémon Tortuguita. Mide 0,5 metros y pesa 9 kilogramos."
+    },
+    {
+      "id": 8,
+      "slug": "wartortle",
+      "name": "Wartortle",
+      "category": "Pokémon Tortuga",
+      "height": "1 m",
+      "weight": "22,5 kg",
+      "abilities": "Torrente · Cura Lluvia (oculta)",
+      "stats": [
+        59,
+        63,
+        80,
+        65,
+        80,
+        58
+      ],
+      "type": "Agua",
+      "description": "Se clasifica como Pokémon Tortuga. Mide 1 metro y pesa 22,5 kilogramos."
+    },
+    {
+      "id": 9,
+      "slug": "blastoise",
+      "name": "Blastoise",
+      "category": "Pokémon Armazón",
+      "height": "1,6 m",
+      "weight": "85,5 kg",
+      "abilities": "Torrente · Cura Lluvia (oculta)",
+      "stats": [
+        79,
+        83,
+        100,
+        85,
+        105,
+        78
+      ],
+      "type": "Agua",
+      "description": "Se clasifica como Pokémon Armazón. Mide 1,6 metros y pesa 85,5 kilogramos."
+    },
+    {
+      "id": 10,
+      "slug": "caterpie",
+      "name": "Caterpie",
+      "category": "Pokémon Gusano",
+      "height": "0,3 m",
+      "weight": "2,9 kg",
+      "abilities": "Polvo Escudo · Fuga (oculta)",
+      "stats": [
+        45,
+        30,
+        35,
+        20,
+        20,
+        45
+      ],
+      "type": "Bicho",
+      "description": "Se clasifica como Pokémon Gusano. Mide 0,3 metros y pesa 2,9 kilogramos."
+    },
+    {
+      "id": 11,
+      "slug": "metapod",
+      "name": "Metapod",
+      "category": "Pokémon Capullo",
+      "height": "0,7 m",
+      "weight": "9,9 kg",
+      "abilities": "Mudar",
+      "stats": [
+        50,
+        20,
+        55,
+        25,
+        25,
+        30
+      ],
+      "type": "Bicho",
+      "description": "Se clasifica como Pokémon Capullo. Mide 0,7 metros y pesa 9,9 kilogramos."
+    },
+    {
+      "id": 12,
+      "slug": "butterfree",
+      "name": "Butterfree",
+      "category": "Pokémon Mariposa",
+      "height": "1,1 m",
+      "weight": "32 kg",
+      "abilities": "Ojo Compuesto · Cromolente (oculta)",
+      "stats": [
+        60,
+        45,
+        50,
+        90,
+        80,
+        70
+      ],
+      "type": "Bicho · Volador",
+      "description": "Se clasifica como Pokémon Mariposa. Mide 1,1 metros y pesa 32 kilogramos."
+    },
+    {
+      "id": 13,
+      "slug": "weedle",
+      "name": "Weedle",
+      "category": "Pokémon Oruga",
+      "height": "0,3 m",
+      "weight": "3,2 kg",
+      "abilities": "Polvo Escudo · Fuga (oculta)",
+      "stats": [
+        40,
+        35,
+        30,
+        20,
+        20,
+        50
+      ],
+      "type": "Bicho · Veneno",
+      "description": "Se clasifica como Pokémon Oruga. Mide 0,3 metros y pesa 3,2 kilogramos."
+    },
+    {
+      "id": 14,
+      "slug": "kakuna",
+      "name": "Kakuna",
+      "category": "Pokémon Capullo",
+      "height": "0,6 m",
+      "weight": "10 kg",
+      "abilities": "Mudar",
+      "stats": [
+        45,
+        25,
+        50,
+        25,
+        25,
+        35
+      ],
+      "type": "Bicho · Veneno",
+      "description": "Se clasifica como Pokémon Capullo. Mide 0,6 metros y pesa 10 kilogramos."
+    },
+    {
+      "id": 15,
+      "slug": "beedrill",
+      "name": "Beedrill",
+      "category": "Pokémon Abeja Veneno",
+      "height": "1 m",
+      "weight": "29,5 kg",
+      "abilities": "Enjambre · Francotirador (oculta)",
+      "stats": [
+        65,
+        90,
+        40,
+        45,
+        80,
+        75
+      ],
+      "type": "Bicho · Veneno",
+      "description": "Se clasifica como Pokémon Abeja Veneno. Mide 1 metro y pesa 29,5 kilogramos."
+    },
+    {
+      "id": 16,
+      "slug": "pidgey",
+      "name": "Pidgey",
+      "category": "Pokémon Pajarito",
+      "height": "0,3 m",
+      "weight": "1,8 kg",
+      "abilities": "Vista Lince · Tumbos · Sacapecho (oculta)",
+      "stats": [
+        40,
+        45,
+        40,
+        35,
+        35,
+        56
+      ],
+      "type": "Normal · Volador",
+      "description": "Se clasifica como Pokémon Pajarito. Mide 0,3 metros y pesa 1,8 kilogramos."
+    },
+    {
+      "id": 17,
+      "slug": "pidgeotto",
+      "name": "Pidgeotto",
+      "category": "Pokémon Pájaro",
+      "height": "1,1 m",
+      "weight": "30 kg",
+      "abilities": "Vista Lince · Tumbos · Sacapecho (oculta)",
+      "stats": [
+        63,
+        60,
+        55,
+        50,
+        50,
+        71
+      ],
+      "type": "Normal · Volador",
+      "description": "Se clasifica como Pokémon Pájaro. Mide 1,1 metros y pesa 30 kilogramos."
+    },
+    {
+      "id": 18,
+      "slug": "pidgeot",
+      "name": "Pidgeot",
+      "category": "Pokémon Pájaro",
+      "height": "1,5 m",
+      "weight": "39,5 kg",
+      "abilities": "Vista Lince · Tumbos · Sacapecho (oculta)",
+      "stats": [
+        83,
+        80,
+        75,
+        70,
+        70,
+        101
+      ],
+      "type": "Normal · Volador",
+      "description": "Se clasifica como Pokémon Pájaro. Mide 1,5 metros y pesa 39,5 kilogramos."
+    },
+    {
+      "id": 19,
+      "slug": "rattata",
+      "name": "Rattata",
+      "category": "Pokémon Ratón",
+      "height": "0,3 m",
+      "weight": "3,5 kg",
+      "abilities": "Fuga · Agallas · Entusiasmo (oculta)",
+      "stats": [
+        30,
+        56,
+        35,
+        25,
+        35,
+        72
+      ],
+      "type": "Normal",
+      "description": "Se clasifica como Pokémon Ratón. Mide 0,3 metros y pesa 3,5 kilogramos."
+    },
+    {
+      "id": 20,
+      "slug": "raticate",
+      "name": "Raticate",
+      "category": "Pokémon Ratón",
+      "height": "0,7 m",
+      "weight": "18,5 kg",
+      "abilities": "Fuga · Agallas · Entusiasmo (oculta)",
+      "stats": [
+        55,
+        81,
+        60,
+        50,
+        70,
+        97
+      ],
+      "type": "Normal",
+      "description": "Se clasifica como Pokémon Ratón. Mide 0,7 metros y pesa 18,5 kilogramos."
+    },
+    {
+      "id": 21,
+      "slug": "spearow",
+      "name": "Spearow",
+      "category": "Pokémon Pajarito",
+      "height": "0,3 m",
+      "weight": "2 kg",
+      "abilities": "Vista Lince · Francotirador (oculta)",
+      "stats": [
+        40,
+        60,
+        30,
+        31,
+        31,
+        70
+      ],
+      "type": "Normal · Volador",
+      "description": "Se clasifica como Pokémon Pajarito. Mide 0,3 metros y pesa 2 kilogramos."
+    },
+    {
+      "id": 22,
+      "slug": "fearow",
+      "name": "Fearow",
+      "category": "Pokémon Pico",
+      "height": "1,2 m",
+      "weight": "38 kg",
+      "abilities": "Vista Lince · Francotirador (oculta)",
+      "stats": [
+        65,
+        90,
+        65,
+        61,
+        61,
+        100
+      ],
+      "type": "Normal · Volador",
+      "description": "Se clasifica como Pokémon Pico. Mide 1,2 metros y pesa 38 kilogramos."
+    },
+    {
+      "id": 23,
+      "slug": "ekans",
+      "name": "Ekans",
+      "category": "Pokémon Serpiente",
+      "height": "2 m",
+      "weight": "6,9 kg",
+      "abilities": "Intimidación · Mudar · Nerviosismo (oculta)",
+      "stats": [
+        35,
+        60,
+        44,
+        40,
+        54,
+        55
+      ],
+      "type": "Veneno",
+      "description": "Se clasifica como Pokémon Serpiente. Mide 2 metros y pesa 6,9 kilogramos."
+    },
+    {
+      "id": 24,
+      "slug": "arbok",
+      "name": "Arbok",
+      "category": "Pokémon Cobra",
+      "height": "3,5 m",
+      "weight": "65 kg",
+      "abilities": "Intimidación · Mudar · Nerviosismo (oculta)",
+      "stats": [
+        60,
+        95,
+        69,
+        65,
+        79,
+        80
+      ],
+      "type": "Veneno",
+      "description": "Se clasifica como Pokémon Cobra. Mide 3,5 metros y pesa 65 kilogramos."
+    },
+    {
+      "id": 25,
+      "slug": "pikachu",
+      "name": "Pikachu",
+      "category": "Pokémon Ratón",
+      "height": "0,4 m",
+      "weight": "6 kg",
+      "abilities": "Electricidad Estática · Pararrayos (oculta)",
+      "stats": [
+        35,
+        55,
+        40,
+        50,
+        50,
+        90
+      ],
+      "type": "Eléctrico",
+      "description": "Se clasifica como Pokémon Ratón. Mide 0,4 metros y pesa 6 kilogramos."
+    },
+    {
+      "id": 26,
+      "slug": "raichu",
+      "name": "Raichu",
+      "category": "Pokémon Ratón",
+      "height": "0,8 m",
+      "weight": "30 kg",
+      "abilities": "Electricidad Estática · Pararrayos (oculta)",
+      "stats": [
+        60,
+        90,
+        55,
+        90,
+        80,
+        110
+      ],
+      "type": "Eléctrico",
+      "description": "Se clasifica como Pokémon Ratón. Mide 0,8 metros y pesa 30 kilogramos."
+    },
+    {
+      "id": 27,
+      "slug": "sandshrew",
+      "name": "Sandshrew",
+      "category": "Pokémon Ratón",
+      "height": "0,6 m",
+      "weight": "12 kg",
+      "abilities": "Velo Arena · Ímpetu Arena (oculta)",
+      "stats": [
+        50,
+        75,
+        85,
+        20,
+        30,
+        40
+      ],
+      "type": "Tierra",
+      "description": "Se clasifica como Pokémon Ratón. Mide 0,6 metros y pesa 12 kilogramos."
+    },
+    {
+      "id": 28,
+      "slug": "sandslash",
+      "name": "Sandslash",
+      "category": "Pokémon Ratón",
+      "height": "1 m",
+      "weight": "29,5 kg",
+      "abilities": "Velo Arena · Ímpetu Arena (oculta)",
+      "stats": [
+        75,
+        100,
+        110,
+        45,
+        55,
+        65
+      ],
+      "type": "Tierra",
+      "description": "Se clasifica como Pokémon Ratón. Mide 1 metro y pesa 29,5 kilogramos."
+    },
+    {
+      "id": 29,
+      "slug": "nidoran-f",
+      "name": "Nidoran♀",
+      "category": "Pokémon Pin Veneno",
+      "height": "0,4 m",
+      "weight": "7 kg",
+      "abilities": "Punto Tóxico · Rivalidad · Entusiasmo (oculta)",
+      "stats": [
+        55,
+        47,
+        52,
+        40,
+        40,
+        41
+      ],
+      "type": "Veneno",
+      "description": "Se clasifica como Pokémon Pin Veneno. Mide 0,4 metros y pesa 7 kilogramos."
+    },
+    {
+      "id": 30,
+      "slug": "nidorina",
+      "name": "Nidorina",
+      "category": "Pokémon Pin Veneno",
+      "height": "0,8 m",
+      "weight": "20 kg",
+      "abilities": "Punto Tóxico · Rivalidad · Entusiasmo (oculta)",
+      "stats": [
+        70,
+        62,
+        67,
+        55,
+        55,
+        56
+      ],
+      "type": "Veneno",
+      "description": "Se clasifica como Pokémon Pin Veneno. Mide 0,8 metros y pesa 20 kilogramos."
+    },
+    {
+      "id": 31,
+      "slug": "nidoqueen",
+      "name": "Nidoqueen",
+      "category": "Pokémon Taladro",
+      "height": "1,3 m",
+      "weight": "60 kg",
+      "abilities": "Punto Tóxico · Rivalidad · Potencia Bruta (oculta)",
+      "stats": [
+        90,
+        92,
+        87,
+        75,
+        85,
+        76
+      ],
+      "type": "Veneno · Tierra",
+      "description": "Se clasifica como Pokémon Taladro. Mide 1,3 metros y pesa 60 kilogramos."
+    },
+    {
+      "id": 32,
+      "slug": "nidoran-m",
+      "name": "Nidoran♂",
+      "category": "Pokémon Pin Veneno",
+      "height": "0,5 m",
+      "weight": "9 kg",
+      "abilities": "Punto Tóxico · Rivalidad · Entusiasmo (oculta)",
+      "stats": [
+        46,
+        57,
+        40,
+        40,
+        40,
+        50
+      ],
+      "type": "Veneno",
+      "description": "Se clasifica como Pokémon Pin Veneno. Mide 0,5 metros y pesa 9 kilogramos."
+    },
+    {
+      "id": 33,
+      "slug": "nidorino",
+      "name": "Nidorino",
+      "category": "Pokémon Pin Veneno",
+      "height": "0,9 m",
+      "weight": "19,5 kg",
+      "abilities": "Punto Tóxico · Rivalidad · Entusiasmo (oculta)",
+      "stats": [
+        61,
+        72,
+        57,
+        55,
+        55,
+        65
+      ],
+      "type": "Veneno",
+      "description": "Se clasifica como Pokémon Pin Veneno. Mide 0,9 metros y pesa 19,5 kilogramos."
+    },
+    {
+      "id": 34,
+      "slug": "nidoking",
+      "name": "Nidoking",
+      "category": "Pokémon Taladro",
+      "height": "1,4 m",
+      "weight": "62 kg",
+      "abilities": "Punto Tóxico · Rivalidad · Potencia Bruta (oculta)",
+      "stats": [
+        81,
+        102,
+        77,
+        85,
+        75,
+        85
+      ],
+      "type": "Veneno · Tierra",
+      "description": "Se clasifica como Pokémon Taladro. Mide 1,4 metros y pesa 62 kilogramos."
+    },
+    {
+      "id": 35,
+      "slug": "clefairy",
+      "name": "Clefairy",
+      "category": "Pokémon Hada",
+      "height": "0,6 m",
+      "weight": "7,5 kg",
+      "abilities": "Gran Encanto · Muro Mágico · Compiescolta (oculta)",
+      "stats": [
+        70,
+        45,
+        48,
+        60,
+        65,
+        35
+      ],
+      "type": "Hada",
+      "description": "Se clasifica como Pokémon Hada. Mide 0,6 metros y pesa 7,5 kilogramos."
+    },
+    {
+      "id": 36,
+      "slug": "clefable",
+      "name": "Clefable",
+      "category": "Pokémon Hada",
+      "height": "1,3 m",
+      "weight": "40 kg",
+      "abilities": "Gran Encanto · Muro Mágico · Ignorante (oculta)",
+      "stats": [
+        95,
+        70,
+        73,
+        95,
+        90,
+        60
+      ],
+      "type": "Hada",
+      "description": "Se clasifica como Pokémon Hada. Mide 1,3 metros y pesa 40 kilogramos."
+    },
+    {
+      "id": 37,
+      "slug": "vulpix",
+      "name": "Vulpix",
+      "category": "Pokémon Zorro",
+      "height": "0,6 m",
+      "weight": "9,9 kg",
+      "abilities": "Absorbe Fuego · Sequía (oculta)",
+      "stats": [
+        38,
+        41,
+        40,
+        50,
+        65,
+        65
+      ],
+      "type": "Fuego",
+      "description": "Se clasifica como Pokémon Zorro. Mide 0,6 metros y pesa 9,9 kilogramos."
+    },
+    {
+      "id": 38,
+      "slug": "ninetales",
+      "name": "Ninetales",
+      "category": "Pokémon Zorro",
+      "height": "1,1 m",
+      "weight": "19,9 kg",
+      "abilities": "Absorbe Fuego · Sequía (oculta)",
+      "stats": [
+        73,
+        76,
+        75,
+        81,
+        100,
+        100
+      ],
+      "type": "Fuego",
+      "description": "Se clasifica como Pokémon Zorro. Mide 1,1 metros y pesa 19,9 kilogramos."
+    },
+    {
+      "id": 39,
+      "slug": "jigglypuff",
+      "name": "Jigglypuff",
+      "category": "Pokémon Globo",
+      "height": "0,5 m",
+      "weight": "5,5 kg",
+      "abilities": "Gran Encanto · Tenacidad · Compiescolta (oculta)",
+      "stats": [
+        115,
+        45,
+        20,
+        45,
+        25,
+        20
+      ],
+      "type": "Normal · Hada",
+      "description": "Se clasifica como Pokémon Globo. Mide 0,5 metros y pesa 5,5 kilogramos."
+    },
+    {
+      "id": 40,
+      "slug": "wigglytuff",
+      "name": "Wigglytuff",
+      "category": "Pokémon Globo",
+      "height": "1 m",
+      "weight": "12 kg",
+      "abilities": "Gran Encanto · Tenacidad · Cacheo (oculta)",
+      "stats": [
+        140,
+        70,
+        45,
+        85,
+        50,
+        45
+      ],
+      "type": "Normal · Hada",
+      "description": "Se clasifica como Pokémon Globo. Mide 1 metro y pesa 12 kilogramos."
+    },
+    {
+      "id": 41,
+      "slug": "zubat",
+      "name": "Zubat",
+      "category": "Pokémon Murciélago",
+      "height": "0,8 m",
+      "weight": "7,5 kg",
+      "abilities": "Fuerza Mental · Allanamiento (oculta)",
+      "stats": [
+        40,
+        45,
+        35,
+        30,
+        40,
+        55
+      ],
+      "type": "Veneno · Volador",
+      "description": "Se clasifica como Pokémon Murciélago. Mide 0,8 metros y pesa 7,5 kilogramos."
+    },
+    {
+      "id": 42,
+      "slug": "golbat",
+      "name": "Golbat",
+      "category": "Pokémon Murciélago",
+      "height": "1,6 m",
+      "weight": "55 kg",
+      "abilities": "Fuerza Mental · Allanamiento (oculta)",
+      "stats": [
+        75,
+        80,
+        70,
+        65,
+        75,
+        90
+      ],
+      "type": "Veneno · Volador",
+      "description": "Se clasifica como Pokémon Murciélago. Mide 1,6 metros y pesa 55 kilogramos."
+    },
+    {
+      "id": 43,
+      "slug": "oddish",
+      "name": "Oddish",
+      "category": "Pokémon Hierbajo",
+      "height": "0,5 m",
+      "weight": "5,4 kg",
+      "abilities": "Clorofila · Fuga (oculta)",
+      "stats": [
+        45,
+        50,
+        55,
+        75,
+        65,
+        30
+      ],
+      "type": "Planta · Veneno",
+      "description": "Se clasifica como Pokémon Hierbajo. Mide 0,5 metros y pesa 5,4 kilogramos."
+    },
+    {
+      "id": 44,
+      "slug": "gloom",
+      "name": "Gloom",
+      "category": "Pokémon Hierbajo",
+      "height": "0,8 m",
+      "weight": "8,6 kg",
+      "abilities": "Clorofila · Hedor (oculta)",
+      "stats": [
+        60,
+        65,
+        70,
+        85,
+        75,
+        40
+      ],
+      "type": "Planta · Veneno",
+      "description": "Se clasifica como Pokémon Hierbajo. Mide 0,8 metros y pesa 8,6 kilogramos."
+    },
+    {
+      "id": 45,
+      "slug": "vileplume",
+      "name": "Vileplume",
+      "category": "Pokémon Flor",
+      "height": "1,2 m",
+      "weight": "18,6 kg",
+      "abilities": "Clorofila · Efecto Espora (oculta)",
+      "stats": [
+        75,
+        80,
+        85,
+        110,
+        90,
+        50
+      ],
+      "type": "Planta · Veneno",
+      "description": "Se clasifica como Pokémon Flor. Mide 1,2 metros y pesa 18,6 kilogramos."
+    },
+    {
+      "id": 46,
+      "slug": "paras",
+      "name": "Paras",
+      "category": "Pokémon Hongo",
+      "height": "0,3 m",
+      "weight": "5,4 kg",
+      "abilities": "Efecto Espora · Piel Seca · Humedad (oculta)",
+      "stats": [
+        35,
+        70,
+        55,
+        45,
+        55,
+        25
+      ],
+      "type": "Bicho · Planta",
+      "description": "Se clasifica como Pokémon Hongo. Mide 0,3 metros y pesa 5,4 kilogramos."
+    },
+    {
+      "id": 47,
+      "slug": "parasect",
+      "name": "Parasect",
+      "category": "Pokémon Hongo",
+      "height": "1 m",
+      "weight": "29,5 kg",
+      "abilities": "Efecto Espora · Piel Seca · Humedad (oculta)",
+      "stats": [
+        60,
+        95,
+        80,
+        60,
+        80,
+        30
+      ],
+      "type": "Bicho · Planta",
+      "description": "Se clasifica como Pokémon Hongo. Mide 1 metro y pesa 29,5 kilogramos."
+    },
+    {
+      "id": 48,
+      "slug": "venonat",
+      "name": "Venonat",
+      "category": "Pokémon Insecto",
+      "height": "1 m",
+      "weight": "30 kg",
+      "abilities": "Ojo Compuesto · Cromolente · Fuga (oculta)",
+      "stats": [
+        60,
+        55,
+        50,
+        40,
+        55,
+        45
+      ],
+      "type": "Bicho · Veneno",
+      "description": "Se clasifica como Pokémon Insecto. Mide 1 metro y pesa 30 kilogramos."
+    },
+    {
+      "id": 49,
+      "slug": "venomoth",
+      "name": "Venomoth",
+      "category": "Pokémon Polilla Ven.",
+      "height": "1,5 m",
+      "weight": "12,5 kg",
+      "abilities": "Polvo Escudo · Cromolente · Piel Milagro (oculta)",
+      "stats": [
+        70,
+        65,
+        60,
+        90,
+        75,
+        90
+      ],
+      "type": "Bicho · Veneno",
+      "description": "Se clasifica como Pokémon Polilla Ven.. Mide 1,5 metros y pesa 12,5 kilogramos."
+    },
+    {
+      "id": 50,
+      "slug": "diglett",
+      "name": "Diglett",
+      "category": "Pokémon Topo",
+      "height": "0,2 m",
+      "weight": "0,8 kg",
+      "abilities": "Velo Arena · Trampa Arena · Poder Arena (oculta)",
+      "stats": [
+        10,
+        55,
+        25,
+        35,
+        45,
+        95
+      ],
+      "type": "Tierra",
+      "description": "Se clasifica como Pokémon Topo. Mide 0,2 metros y pesa 0,8 kilogramos."
+    },
+    {
+      "id": 51,
+      "slug": "dugtrio",
+      "name": "Dugtrio",
+      "category": "Pokémon Topo",
+      "height": "0,7 m",
+      "weight": "33,3 kg",
+      "abilities": "Velo Arena · Trampa Arena · Poder Arena (oculta)",
+      "stats": [
+        35,
+        100,
+        50,
+        50,
+        70,
+        120
+      ],
+      "type": "Tierra",
+      "description": "Se clasifica como Pokémon Topo. Mide 0,7 metros y pesa 33,3 kilogramos."
+    },
+    {
+      "id": 52,
+      "slug": "meowth",
+      "name": "Meowth",
+      "category": "Pokémon Gato Araña",
+      "height": "0,4 m",
+      "weight": "4,2 kg",
+      "abilities": "Recogida · Experto · Nerviosismo (oculta)",
+      "stats": [
+        40,
+        45,
+        35,
+        40,
+        40,
+        90
+      ],
+      "type": "Normal",
+      "description": "Se clasifica como Pokémon Gato Araña. Mide 0,4 metros y pesa 4,2 kilogramos."
+    },
+    {
+      "id": 53,
+      "slug": "persian",
+      "name": "Persian",
+      "category": "Pokémon Gato Fino",
+      "height": "1 m",
+      "weight": "32 kg",
+      "abilities": "Flexibilidad · Experto · Nerviosismo (oculta)",
+      "stats": [
+        65,
+        70,
+        60,
+        65,
+        65,
+        115
+      ],
+      "type": "Normal",
+      "description": "Se clasifica como Pokémon Gato Fino. Mide 1 metro y pesa 32 kilogramos."
+    },
+    {
+      "id": 54,
+      "slug": "psyduck",
+      "name": "Psyduck",
+      "category": "Pokémon Pato",
+      "height": "0,8 m",
+      "weight": "19,6 kg",
+      "abilities": "Humedad · Aclimatación · Nado Rápido (oculta)",
+      "stats": [
+        50,
+        52,
+        48,
+        65,
+        50,
+        55
+      ],
+      "type": "Agua",
+      "description": "Se clasifica como Pokémon Pato. Mide 0,8 metros y pesa 19,6 kilogramos."
+    },
+    {
+      "id": 55,
+      "slug": "golduck",
+      "name": "Golduck",
+      "category": "Pokémon Pato",
+      "height": "1,7 m",
+      "weight": "76,6 kg",
+      "abilities": "Humedad · Aclimatación · Nado Rápido (oculta)",
+      "stats": [
+        80,
+        82,
+        78,
+        95,
+        80,
+        85
+      ],
+      "type": "Agua",
+      "description": "Se clasifica como Pokémon Pato. Mide 1,7 metros y pesa 76,6 kilogramos."
+    },
+    {
+      "id": 56,
+      "slug": "mankey",
+      "name": "Mankey",
+      "category": "Pokémon Mono Cerdo",
+      "height": "0,5 m",
+      "weight": "28 kg",
+      "abilities": "Espíritu Vital · Irascible · Competitivo (oculta)",
+      "stats": [
+        40,
+        80,
+        35,
+        35,
+        45,
+        70
+      ],
+      "type": "Lucha",
+      "description": "Se clasifica como Pokémon Mono Cerdo. Mide 0,5 metros y pesa 28 kilogramos."
+    },
+    {
+      "id": 57,
+      "slug": "primeape",
+      "name": "Primeape",
+      "category": "Pokémon Mono Cerdo",
+      "height": "1 m",
+      "weight": "32 kg",
+      "abilities": "Espíritu Vital · Irascible · Competitivo (oculta)",
+      "stats": [
+        65,
+        105,
+        60,
+        60,
+        70,
+        95
+      ],
+      "type": "Lucha",
+      "description": "Se clasifica como Pokémon Mono Cerdo. Mide 1 metro y pesa 32 kilogramos."
+    },
+    {
+      "id": 58,
+      "slug": "growlithe",
+      "name": "Growlithe",
+      "category": "Pokémon Perrito",
+      "height": "0,7 m",
+      "weight": "19 kg",
+      "abilities": "Intimidación · Absorbe Fuego · Justiciero (oculta)",
+      "stats": [
+        55,
+        70,
+        45,
+        70,
+        50,
+        60
+      ],
+      "type": "Fuego",
+      "description": "Se clasifica como Pokémon Perrito. Mide 0,7 metros y pesa 19 kilogramos."
+    },
+    {
+      "id": 59,
+      "slug": "arcanine",
+      "name": "Arcanine",
+      "category": "Pokémon Leyenda",
+      "height": "1,9 m",
+      "weight": "155 kg",
+      "abilities": "Intimidación · Absorbe Fuego · Justiciero (oculta)",
+      "stats": [
+        90,
+        110,
+        80,
+        100,
+        80,
+        95
+      ],
+      "type": "Fuego",
+      "description": "Se clasifica como Pokémon Leyenda. Mide 1,9 metros y pesa 155 kilogramos."
+    },
+    {
+      "id": 60,
+      "slug": "poliwag",
+      "name": "Poliwag",
+      "category": "Pokémon Renacuajo",
+      "height": "0,6 m",
+      "weight": "12,4 kg",
+      "abilities": "Absorbe Agua · Humedad · Nado Rápido (oculta)",
+      "stats": [
+        40,
+        50,
+        40,
+        40,
+        40,
+        90
+      ],
+      "type": "Agua",
+      "description": "Se clasifica como Pokémon Renacuajo. Mide 0,6 metros y pesa 12,4 kilogramos."
+    },
+    {
+      "id": 61,
+      "slug": "poliwhirl",
+      "name": "Poliwhirl",
+      "category": "Pokémon Renacuajo",
+      "height": "1 m",
+      "weight": "20 kg",
+      "abilities": "Absorbe Agua · Humedad · Nado Rápido (oculta)",
+      "stats": [
+        65,
+        65,
+        65,
+        50,
+        50,
+        90
+      ],
+      "type": "Agua",
+      "description": "Se clasifica como Pokémon Renacuajo. Mide 1 metro y pesa 20 kilogramos."
+    },
+    {
+      "id": 62,
+      "slug": "poliwrath",
+      "name": "Poliwrath",
+      "category": "Pokémon Renacuajo",
+      "height": "1,3 m",
+      "weight": "54 kg",
+      "abilities": "Absorbe Agua · Humedad · Nado Rápido (oculta)",
+      "stats": [
+        90,
+        95,
+        95,
+        70,
+        90,
+        70
+      ],
+      "type": "Agua · Lucha",
+      "description": "Se clasifica como Pokémon Renacuajo. Mide 1,3 metros y pesa 54 kilogramos."
+    },
+    {
+      "id": 63,
+      "slug": "abra",
+      "name": "Abra",
+      "category": "Pokémon Psi",
+      "height": "0,9 m",
+      "weight": "19,5 kg",
+      "abilities": "Sincronía · Fuerza Mental · Muro Mágico (oculta)",
+      "stats": [
+        25,
+        20,
+        15,
+        105,
+        55,
+        90
+      ],
+      "type": "Psíquico",
+      "description": "Se clasifica como Pokémon Psi. Mide 0,9 metros y pesa 19,5 kilogramos."
+    },
+    {
+      "id": 64,
+      "slug": "kadabra",
+      "name": "Kadabra",
+      "category": "Pokémon Psi",
+      "height": "1,3 m",
+      "weight": "56,5 kg",
+      "abilities": "Sincronía · Fuerza Mental · Muro Mágico (oculta)",
+      "stats": [
+        40,
+        35,
+        30,
+        120,
+        70,
+        105
+      ],
+      "type": "Psíquico",
+      "description": "Se clasifica como Pokémon Psi. Mide 1,3 metros y pesa 56,5 kilogramos."
+    },
+    {
+      "id": 65,
+      "slug": "alakazam",
+      "name": "Alakazam",
+      "category": "Pokémon Psi",
+      "height": "1,5 m",
+      "weight": "48 kg",
+      "abilities": "Sincronía · Fuerza Mental · Muro Mágico (oculta)",
+      "stats": [
+        55,
+        50,
+        45,
+        135,
+        95,
+        120
+      ],
+      "type": "Psíquico",
+      "description": "Se clasifica como Pokémon Psi. Mide 1,5 metros y pesa 48 kilogramos."
+    },
+    {
+      "id": 66,
+      "slug": "machop",
+      "name": "Machop",
+      "category": "Pokémon Superpoder",
+      "height": "0,8 m",
+      "weight": "19,5 kg",
+      "abilities": "Agallas · Indefenso · Impasible (oculta)",
+      "stats": [
+        70,
+        80,
+        50,
+        35,
+        35,
+        35
+      ],
+      "type": "Lucha",
+      "description": "Se clasifica como Pokémon Superpoder. Mide 0,8 metros y pesa 19,5 kilogramos."
+    },
+    {
+      "id": 67,
+      "slug": "machoke",
+      "name": "Machoke",
+      "category": "Pokémon Superpoder",
+      "height": "1,5 m",
+      "weight": "70,5 kg",
+      "abilities": "Agallas · Indefenso · Impasible (oculta)",
+      "stats": [
+        80,
+        100,
+        70,
+        50,
+        60,
+        45
+      ],
+      "type": "Lucha",
+      "description": "Se clasifica como Pokémon Superpoder. Mide 1,5 metros y pesa 70,5 kilogramos."
+    },
+    {
+      "id": 68,
+      "slug": "machamp",
+      "name": "Machamp",
+      "category": "Pokémon Superpoder",
+      "height": "1,6 m",
+      "weight": "130 kg",
+      "abilities": "Agallas · Indefenso · Impasible (oculta)",
+      "stats": [
+        90,
+        130,
+        80,
+        65,
+        85,
+        55
+      ],
+      "type": "Lucha",
+      "description": "Se clasifica como Pokémon Superpoder. Mide 1,6 metros y pesa 130 kilogramos."
+    },
+    {
+      "id": 69,
+      "slug": "bellsprout",
+      "name": "Bellsprout",
+      "category": "Pokémon Flor",
+      "height": "0,7 m",
+      "weight": "4 kg",
+      "abilities": "Clorofila · Gula (oculta)",
+      "stats": [
+        50,
+        75,
+        35,
+        70,
+        30,
+        40
+      ],
+      "type": "Planta · Veneno",
+      "description": "Se clasifica como Pokémon Flor. Mide 0,7 metros y pesa 4 kilogramos."
+    },
+    {
+      "id": 70,
+      "slug": "weepinbell",
+      "name": "Weepinbell",
+      "category": "Pokémon Matamoscas",
+      "height": "1 m",
+      "weight": "6,4 kg",
+      "abilities": "Clorofila · Gula (oculta)",
+      "stats": [
+        65,
+        90,
+        50,
+        85,
+        45,
+        55
+      ],
+      "type": "Planta · Veneno",
+      "description": "Se clasifica como Pokémon Matamoscas. Mide 1 metro y pesa 6,4 kilogramos."
+    },
+    {
+      "id": 71,
+      "slug": "victreebel",
+      "name": "Victreebel",
+      "category": "Pokémon Matamoscas",
+      "height": "1,7 m",
+      "weight": "15,5 kg",
+      "abilities": "Clorofila · Gula (oculta)",
+      "stats": [
+        80,
+        105,
+        65,
+        100,
+        70,
+        70
+      ],
+      "type": "Planta · Veneno",
+      "description": "Se clasifica como Pokémon Matamoscas. Mide 1,7 metros y pesa 15,5 kilogramos."
+    },
+    {
+      "id": 72,
+      "slug": "tentacool",
+      "name": "Tentacool",
+      "category": "Pokémon Medusa",
+      "height": "0,9 m",
+      "weight": "45,5 kg",
+      "abilities": "Cuerpo Puro · Lodo Líquido · Cura Lluvia (oculta)",
+      "stats": [
+        40,
+        40,
+        35,
+        50,
+        100,
+        70
+      ],
+      "type": "Agua · Veneno",
+      "description": "Se clasifica como Pokémon Medusa. Mide 0,9 metros y pesa 45,5 kilogramos."
+    },
+    {
+      "id": 73,
+      "slug": "tentacruel",
+      "name": "Tentacruel",
+      "category": "Pokémon Medusa",
+      "height": "1,6 m",
+      "weight": "55 kg",
+      "abilities": "Cuerpo Puro · Lodo Líquido · Cura Lluvia (oculta)",
+      "stats": [
+        80,
+        70,
+        65,
+        80,
+        120,
+        100
+      ],
+      "type": "Agua · Veneno",
+      "description": "Se clasifica como Pokémon Medusa. Mide 1,6 metros y pesa 55 kilogramos."
+    },
+    {
+      "id": 74,
+      "slug": "geodude",
+      "name": "Geodude",
+      "category": "Pokémon Roca",
+      "height": "0,4 m",
+      "weight": "20 kg",
+      "abilities": "Cabeza Roca · Robustez · Velo Arena (oculta)",
+      "stats": [
+        40,
+        80,
+        100,
+        30,
+        30,
+        20
+      ],
+      "type": "Roca · Tierra",
+      "description": "Se clasifica como Pokémon Roca. Mide 0,4 metros y pesa 20 kilogramos."
+    },
+    {
+      "id": 75,
+      "slug": "graveler",
+      "name": "Graveler",
+      "category": "Pokémon Roca",
+      "height": "1 m",
+      "weight": "105 kg",
+      "abilities": "Cabeza Roca · Robustez · Velo Arena (oculta)",
+      "stats": [
+        55,
+        95,
+        115,
+        45,
+        45,
+        35
+      ],
+      "type": "Roca · Tierra",
+      "description": "Se clasifica como Pokémon Roca. Mide 1 metro y pesa 105 kilogramos."
+    },
+    {
+      "id": 76,
+      "slug": "golem",
+      "name": "Golem",
+      "category": "Pokémon Megatón",
+      "height": "1,4 m",
+      "weight": "300 kg",
+      "abilities": "Cabeza Roca · Robustez · Velo Arena (oculta)",
+      "stats": [
+        80,
+        120,
+        130,
+        55,
+        65,
+        45
+      ],
+      "type": "Roca · Tierra",
+      "description": "Se clasifica como Pokémon Megatón. Mide 1,4 metros y pesa 300 kilogramos."
+    },
+    {
+      "id": 77,
+      "slug": "ponyta",
+      "name": "Ponyta",
+      "category": "Pokémon Caballo Fuego",
+      "height": "1 m",
+      "weight": "30 kg",
+      "abilities": "Fuga · Absorbe Fuego · Cuerpo Llama (oculta)",
+      "stats": [
+        50,
+        85,
+        55,
+        65,
+        65,
+        90
+      ],
+      "type": "Fuego",
+      "description": "Se clasifica como Pokémon Caballo Fuego. Mide 1 metro y pesa 30 kilogramos."
+    },
+    {
+      "id": 78,
+      "slug": "rapidash",
+      "name": "Rapidash",
+      "category": "Pokémon Caballo Fuego",
+      "height": "1,7 m",
+      "weight": "95 kg",
+      "abilities": "Fuga · Absorbe Fuego · Cuerpo Llama (oculta)",
+      "stats": [
+        65,
+        100,
+        70,
+        80,
+        80,
+        105
+      ],
+      "type": "Fuego",
+      "description": "Se clasifica como Pokémon Caballo Fuego. Mide 1,7 metros y pesa 95 kilogramos."
+    },
+    {
+      "id": 79,
+      "slug": "slowpoke",
+      "name": "Slowpoke",
+      "category": "Pokémon Atontado",
+      "height": "1,2 m",
+      "weight": "36 kg",
+      "abilities": "Despiste · Ritmo Propio · Regeneración (oculta)",
+      "stats": [
+        90,
+        65,
+        65,
+        40,
+        40,
+        15
+      ],
+      "type": "Agua · Psíquico",
+      "description": "Se clasifica como Pokémon Atontado. Mide 1,2 metros y pesa 36 kilogramos."
+    },
+    {
+      "id": 80,
+      "slug": "slowbro",
+      "name": "Slowbro",
+      "category": "Pokémon Ermitaño",
+      "height": "1,6 m",
+      "weight": "78,5 kg",
+      "abilities": "Despiste · Ritmo Propio · Regeneración (oculta)",
+      "stats": [
+        95,
+        75,
+        110,
+        100,
+        80,
+        30
+      ],
+      "type": "Agua · Psíquico",
+      "description": "Se clasifica como Pokémon Ermitaño. Mide 1,6 metros y pesa 78,5 kilogramos."
+    },
+    {
+      "id": 81,
+      "slug": "magnemite",
+      "name": "Magnemite",
+      "category": "Pokémon Imán",
+      "height": "0,3 m",
+      "weight": "6 kg",
+      "abilities": "Imán · Robustez · Cálculo Final (oculta)",
+      "stats": [
+        25,
+        35,
+        70,
+        95,
+        55,
+        45
+      ],
+      "type": "Eléctrico · Acero",
+      "description": "Se clasifica como Pokémon Imán. Mide 0,3 metros y pesa 6 kilogramos."
+    },
+    {
+      "id": 82,
+      "slug": "magneton",
+      "name": "Magneton",
+      "category": "Pokémon Imán",
+      "height": "1 m",
+      "weight": "60 kg",
+      "abilities": "Imán · Robustez · Cálculo Final (oculta)",
+      "stats": [
+        50,
+        60,
+        95,
+        120,
+        70,
+        70
+      ],
+      "type": "Eléctrico · Acero",
+      "description": "Se clasifica como Pokémon Imán. Mide 1 metro y pesa 60 kilogramos."
+    },
+    {
+      "id": 83,
+      "slug": "farfetchd",
+      "name": "Farfetch’d",
+      "category": "Pokémon Pato Salvaje",
+      "height": "0,8 m",
+      "weight": "15 kg",
+      "abilities": "Vista Lince · Fuerza Mental · Competitivo (oculta)",
+      "stats": [
+        52,
+        90,
+        55,
+        58,
+        62,
+        60
+      ],
+      "type": "Normal · Volador",
+      "description": "Se clasifica como Pokémon Pato Salvaje. Mide 0,8 metros y pesa 15 kilogramos."
+    },
+    {
+      "id": 84,
+      "slug": "doduo",
+      "name": "Doduo",
+      "category": "Pokémon Ave Gemela",
+      "height": "1,4 m",
+      "weight": "39,2 kg",
+      "abilities": "Fuga · Madrugar · Tumbos (oculta)",
+      "stats": [
+        35,
+        85,
+        45,
+        35,
+        35,
+        75
+      ],
+      "type": "Normal · Volador",
+      "description": "Se clasifica como Pokémon Ave Gemela. Mide 1,4 metros y pesa 39,2 kilogramos."
+    },
+    {
+      "id": 85,
+      "slug": "dodrio",
+      "name": "Dodrio",
+      "category": "Pokémon Ave Triple",
+      "height": "1,8 m",
+      "weight": "85,2 kg",
+      "abilities": "Fuga · Madrugar · Tumbos (oculta)",
+      "stats": [
+        60,
+        110,
+        70,
+        60,
+        60,
+        110
+      ],
+      "type": "Normal · Volador",
+      "description": "Se clasifica como Pokémon Ave Triple. Mide 1,8 metros y pesa 85,2 kilogramos."
+    },
+    {
+      "id": 86,
+      "slug": "seel",
+      "name": "Seel",
+      "category": "Pokémon León Marino",
+      "height": "1,1 m",
+      "weight": "90 kg",
+      "abilities": "Sebo · Hidratación · Gélido (oculta)",
+      "stats": [
+        65,
+        45,
+        55,
+        45,
+        70,
+        45
+      ],
+      "type": "Agua",
+      "description": "Se clasifica como Pokémon León Marino. Mide 1,1 metros y pesa 90 kilogramos."
+    },
+    {
+      "id": 87,
+      "slug": "dewgong",
+      "name": "Dewgong",
+      "category": "Pokémon León Marino",
+      "height": "1,7 m",
+      "weight": "120 kg",
+      "abilities": "Sebo · Hidratación · Gélido (oculta)",
+      "stats": [
+        90,
+        70,
+        80,
+        70,
+        95,
+        70
+      ],
+      "type": "Agua · Hielo",
+      "description": "Se clasifica como Pokémon León Marino. Mide 1,7 metros y pesa 120 kilogramos."
+    },
+    {
+      "id": 88,
+      "slug": "grimer",
+      "name": "Grimer",
+      "category": "Pokémon Lodo",
+      "height": "0,9 m",
+      "weight": "30 kg",
+      "abilities": "Hedor · Viscosidad · Toque Tóxico (oculta)",
+      "stats": [
+        80,
+        80,
+        50,
+        40,
+        50,
+        25
+      ],
+      "type": "Veneno",
+      "description": "Se clasifica como Pokémon Lodo. Mide 0,9 metros y pesa 30 kilogramos."
+    },
+    {
+      "id": 89,
+      "slug": "muk",
+      "name": "Muk",
+      "category": "Pokémon Lodo",
+      "height": "1,2 m",
+      "weight": "30 kg",
+      "abilities": "Hedor · Viscosidad · Toque Tóxico (oculta)",
+      "stats": [
+        105,
+        105,
+        75,
+        65,
+        100,
+        50
+      ],
+      "type": "Veneno",
+      "description": "Se clasifica como Pokémon Lodo. Mide 1,2 metros y pesa 30 kilogramos."
+    },
+    {
+      "id": 90,
+      "slug": "shellder",
+      "name": "Shellder",
+      "category": "Pokémon Bivalvo",
+      "height": "0,3 m",
+      "weight": "4 kg",
+      "abilities": "Caparazón · Encadenado · Funda (oculta)",
+      "stats": [
+        30,
+        65,
+        100,
+        45,
+        25,
+        40
+      ],
+      "type": "Agua",
+      "description": "Se clasifica como Pokémon Bivalvo. Mide 0,3 metros y pesa 4 kilogramos."
+    },
+    {
+      "id": 91,
+      "slug": "cloyster",
+      "name": "Cloyster",
+      "category": "Pokémon Bivalvo",
+      "height": "1,5 m",
+      "weight": "132,5 kg",
+      "abilities": "Caparazón · Encadenado · Funda (oculta)",
+      "stats": [
+        50,
+        95,
+        180,
+        85,
+        45,
+        70
+      ],
+      "type": "Agua · Hielo",
+      "description": "Se clasifica como Pokémon Bivalvo. Mide 1,5 metros y pesa 132,5 kilogramos."
+    },
+    {
+      "id": 92,
+      "slug": "gastly",
+      "name": "Gastly",
+      "category": "Pokémon Gas",
+      "height": "1,3 m",
+      "weight": "0,1 kg",
+      "abilities": "Levitación",
+      "stats": [
+        30,
+        35,
+        30,
+        100,
+        35,
+        80
+      ],
+      "type": "Fantasma · Veneno",
+      "description": "Se clasifica como Pokémon Gas. Mide 1,3 metros y pesa 0,1 kilogramos."
+    },
+    {
+      "id": 93,
+      "slug": "haunter",
+      "name": "Haunter",
+      "category": "Pokémon Gas",
+      "height": "1,6 m",
+      "weight": "0,1 kg",
+      "abilities": "Levitación",
+      "stats": [
+        45,
+        50,
+        45,
+        115,
+        55,
+        95
+      ],
+      "type": "Fantasma · Veneno",
+      "description": "Se clasifica como Pokémon Gas. Mide 1,6 metros y pesa 0,1 kilogramos."
+    },
+    {
+      "id": 94,
+      "slug": "gengar",
+      "name": "Gengar",
+      "category": "Pokémon Sombra",
+      "height": "1,5 m",
+      "weight": "40,5 kg",
+      "abilities": "Cuerpo Maldito",
+      "stats": [
+        60,
+        65,
+        60,
+        130,
+        75,
+        110
+      ],
+      "type": "Fantasma · Veneno",
+      "description": "Se clasifica como Pokémon Sombra. Mide 1,5 metros y pesa 40,5 kilogramos."
+    },
+    {
+      "id": 95,
+      "slug": "onix",
+      "name": "Onix",
+      "category": "Pokémon Serpiente Roca",
+      "height": "8,8 m",
+      "weight": "210 kg",
+      "abilities": "Cabeza Roca · Robustez · Armadura Frágil (oculta)",
+      "stats": [
+        35,
+        45,
+        160,
+        30,
+        45,
+        70
+      ],
+      "type": "Roca · Tierra",
+      "description": "Se clasifica como Pokémon Serpiente Roca. Mide 8,8 metros y pesa 210 kilogramos."
+    },
+    {
+      "id": 96,
+      "slug": "drowzee",
+      "name": "Drowzee",
+      "category": "Pokémon Hipnosis",
+      "height": "1 m",
+      "weight": "32,4 kg",
+      "abilities": "Insomnio · Alerta · Fuerza Mental (oculta)",
+      "stats": [
+        60,
+        48,
+        45,
+        43,
+        90,
+        42
+      ],
+      "type": "Psíquico",
+      "description": "Se clasifica como Pokémon Hipnosis. Mide 1 metro y pesa 32,4 kilogramos."
+    },
+    {
+      "id": 97,
+      "slug": "hypno",
+      "name": "Hypno",
+      "category": "Pokémon Hipnosis",
+      "height": "1,6 m",
+      "weight": "75,6 kg",
+      "abilities": "Insomnio · Alerta · Fuerza Mental (oculta)",
+      "stats": [
+        85,
+        73,
+        70,
+        73,
+        115,
+        67
+      ],
+      "type": "Psíquico",
+      "description": "Se clasifica como Pokémon Hipnosis. Mide 1,6 metros y pesa 75,6 kilogramos."
+    },
+    {
+      "id": 98,
+      "slug": "krabby",
+      "name": "Krabby",
+      "category": "Pokémon Cangrejo",
+      "height": "0,4 m",
+      "weight": "6,5 kg",
+      "abilities": "Corte Fuerte · Caparazón · Potencia Bruta (oculta)",
+      "stats": [
+        30,
+        105,
+        90,
+        25,
+        25,
+        50
+      ],
+      "type": "Agua",
+      "description": "Se clasifica como Pokémon Cangrejo. Mide 0,4 metros y pesa 6,5 kilogramos."
+    },
+    {
+      "id": 99,
+      "slug": "kingler",
+      "name": "Kingler",
+      "category": "Pokémon Tenaza",
+      "height": "1,3 m",
+      "weight": "60 kg",
+      "abilities": "Corte Fuerte · Caparazón · Potencia Bruta (oculta)",
+      "stats": [
+        55,
+        130,
+        115,
+        50,
+        50,
+        75
+      ],
+      "type": "Agua",
+      "description": "Se clasifica como Pokémon Tenaza. Mide 1,3 metros y pesa 60 kilogramos."
+    },
+    {
+      "id": 100,
+      "slug": "voltorb",
+      "name": "Voltorb",
+      "category": "Pokémon Bola",
+      "height": "0,5 m",
+      "weight": "10,4 kg",
+      "abilities": "Insonorizar · Electricidad Estática · Detonación (oculta)",
+      "stats": [
+        40,
+        30,
+        50,
+        55,
+        55,
+        100
+      ],
+      "type": "Eléctrico",
+      "description": "Se clasifica como Pokémon Bola. Mide 0,5 metros y pesa 10,4 kilogramos."
+    },
+    {
+      "id": 101,
+      "slug": "electrode",
+      "name": "Electrode",
+      "category": "Pokémon Bola",
+      "height": "1,2 m",
+      "weight": "66,6 kg",
+      "abilities": "Insonorizar · Electricidad Estática · Detonación (oculta)",
+      "stats": [
+        60,
+        50,
+        70,
+        80,
+        80,
+        150
+      ],
+      "type": "Eléctrico",
+      "description": "Se clasifica como Pokémon Bola. Mide 1,2 metros y pesa 66,6 kilogramos."
+    },
+    {
+      "id": 102,
+      "slug": "exeggcute",
+      "name": "Exeggcute",
+      "category": "Pokémon Huevo",
+      "height": "0,4 m",
+      "weight": "2,5 kg",
+      "abilities": "Clorofila · Cosecha (oculta)",
+      "stats": [
+        60,
+        40,
+        80,
+        60,
+        45,
+        40
+      ],
+      "type": "Planta · Psíquico",
+      "description": "Se clasifica como Pokémon Huevo. Mide 0,4 metros y pesa 2,5 kilogramos."
+    },
+    {
+      "id": 103,
+      "slug": "exeggutor",
+      "name": "Exeggutor",
+      "category": "Pokémon Coco",
+      "height": "2 m",
+      "weight": "120 kg",
+      "abilities": "Clorofila · Cosecha (oculta)",
+      "stats": [
+        95,
+        95,
+        85,
+        125,
+        75,
+        55
+      ],
+      "type": "Planta · Psíquico",
+      "description": "Se clasifica como Pokémon Coco. Mide 2 metros y pesa 120 kilogramos."
+    },
+    {
+      "id": 104,
+      "slug": "cubone",
+      "name": "Cubone",
+      "category": "Pokémon Solitario",
+      "height": "0,4 m",
+      "weight": "6,5 kg",
+      "abilities": "Cabeza Roca · Pararrayos · Armadura Batalla (oculta)",
+      "stats": [
+        50,
+        50,
+        95,
+        40,
+        50,
+        35
+      ],
+      "type": "Tierra",
+      "description": "Se clasifica como Pokémon Solitario. Mide 0,4 metros y pesa 6,5 kilogramos."
+    },
+    {
+      "id": 105,
+      "slug": "marowak",
+      "name": "Marowak",
+      "category": "Pokémon Apilahueso",
+      "height": "1 m",
+      "weight": "45 kg",
+      "abilities": "Cabeza Roca · Pararrayos · Armadura Batalla (oculta)",
+      "stats": [
+        60,
+        80,
+        110,
+        50,
+        80,
+        45
+      ],
+      "type": "Tierra",
+      "description": "Se clasifica como Pokémon Apilahueso. Mide 1 metro y pesa 45 kilogramos."
+    },
+    {
+      "id": 106,
+      "slug": "hitmonlee",
+      "name": "Hitmonlee",
+      "category": "Pokémon Patada",
+      "height": "1,5 m",
+      "weight": "49,8 kg",
+      "abilities": "Flexibilidad · Audaz · Liviano (oculta)",
+      "stats": [
+        50,
+        120,
+        53,
+        35,
+        110,
+        87
+      ],
+      "type": "Lucha",
+      "description": "Se clasifica como Pokémon Patada. Mide 1,5 metros y pesa 49,8 kilogramos."
+    },
+    {
+      "id": 107,
+      "slug": "hitmonchan",
+      "name": "Hitmonchan",
+      "category": "Pokémon Puñetazo",
+      "height": "1,4 m",
+      "weight": "50,2 kg",
+      "abilities": "Vista Lince · Puño Férreo · Fuerza Mental (oculta)",
+      "stats": [
+        50,
+        105,
+        79,
+        35,
+        110,
+        76
+      ],
+      "type": "Lucha",
+      "description": "Se clasifica como Pokémon Puñetazo. Mide 1,4 metros y pesa 50,2 kilogramos."
+    },
+    {
+      "id": 108,
+      "slug": "lickitung",
+      "name": "Lickitung",
+      "category": "Pokémon Lametazo",
+      "height": "1,2 m",
+      "weight": "65,5 kg",
+      "abilities": "Ritmo Propio · Despiste · Aclimatación (oculta)",
+      "stats": [
+        90,
+        55,
+        75,
+        60,
+        75,
+        30
+      ],
+      "type": "Normal",
+      "description": "Se clasifica como Pokémon Lametazo. Mide 1,2 metros y pesa 65,5 kilogramos."
+    },
+    {
+      "id": 109,
+      "slug": "koffing",
+      "name": "Koffing",
+      "category": "Pokémon Gas Venenoso",
+      "height": "0,6 m",
+      "weight": "1 kg",
+      "abilities": "Levitación · Gas Reactivo · Hedor (oculta)",
+      "stats": [
+        40,
+        65,
+        95,
+        60,
+        45,
+        35
+      ],
+      "type": "Veneno",
+      "description": "Se clasifica como Pokémon Gas Venenoso. Mide 0,6 metros y pesa 1 kilogramo."
+    },
+    {
+      "id": 110,
+      "slug": "weezing",
+      "name": "Weezing",
+      "category": "Pokémon Gas Venenoso",
+      "height": "1,2 m",
+      "weight": "9,5 kg",
+      "abilities": "Levitación · Gas Reactivo · Hedor (oculta)",
+      "stats": [
+        65,
+        90,
+        120,
+        85,
+        70,
+        60
+      ],
+      "type": "Veneno",
+      "description": "Se clasifica como Pokémon Gas Venenoso. Mide 1,2 metros y pesa 9,5 kilogramos."
+    },
+    {
+      "id": 111,
+      "slug": "rhyhorn",
+      "name": "Rhyhorn",
+      "category": "Pokémon Clavos",
+      "height": "1 m",
+      "weight": "115 kg",
+      "abilities": "Pararrayos · Cabeza Roca · Audaz (oculta)",
+      "stats": [
+        80,
+        85,
+        95,
+        30,
+        30,
+        25
+      ],
+      "type": "Tierra · Roca",
+      "description": "Se clasifica como Pokémon Clavos. Mide 1 metro y pesa 115 kilogramos."
+    },
+    {
+      "id": 112,
+      "slug": "rhydon",
+      "name": "Rhydon",
+      "category": "Pokémon Taladro",
+      "height": "1,9 m",
+      "weight": "120 kg",
+      "abilities": "Pararrayos · Cabeza Roca · Audaz (oculta)",
+      "stats": [
+        105,
+        130,
+        120,
+        45,
+        45,
+        40
+      ],
+      "type": "Tierra · Roca",
+      "description": "Se clasifica como Pokémon Taladro. Mide 1,9 metros y pesa 120 kilogramos."
+    },
+    {
+      "id": 113,
+      "slug": "chansey",
+      "name": "Chansey",
+      "category": "Pokémon Huevo",
+      "height": "1,1 m",
+      "weight": "34,6 kg",
+      "abilities": "Cura Natural · Dicha · Alma Cura (oculta)",
+      "stats": [
+        250,
+        5,
+        5,
+        35,
+        105,
+        50
+      ],
+      "type": "Normal",
+      "description": "Se clasifica como Pokémon Huevo. Mide 1,1 metros y pesa 34,6 kilogramos."
+    },
+    {
+      "id": 114,
+      "slug": "tangela",
+      "name": "Tangela",
+      "category": "Pokémon Enredadera",
+      "height": "1 m",
+      "weight": "35 kg",
+      "abilities": "Clorofila · Defensa Hoja · Regeneración (oculta)",
+      "stats": [
+        65,
+        55,
+        115,
+        100,
+        40,
+        60
+      ],
+      "type": "Planta",
+      "description": "Se clasifica como Pokémon Enredadera. Mide 1 metro y pesa 35 kilogramos."
+    },
+    {
+      "id": 115,
+      "slug": "kangaskhan",
+      "name": "Kangaskhan",
+      "category": "Pokémon Maternal",
+      "height": "2,2 m",
+      "weight": "80 kg",
+      "abilities": "Madrugar · Intrépido · Fuerza Mental (oculta)",
+      "stats": [
+        105,
+        95,
+        80,
+        40,
+        80,
+        90
+      ],
+      "type": "Normal",
+      "description": "Se clasifica como Pokémon Maternal. Mide 2,2 metros y pesa 80 kilogramos."
+    },
+    {
+      "id": 116,
+      "slug": "horsea",
+      "name": "Horsea",
+      "category": "Pokémon Dragón",
+      "height": "0,4 m",
+      "weight": "8 kg",
+      "abilities": "Nado Rápido · Francotirador · Humedad (oculta)",
+      "stats": [
+        30,
+        40,
+        70,
+        70,
+        25,
+        60
+      ],
+      "type": "Agua",
+      "description": "Se clasifica como Pokémon Dragón. Mide 0,4 metros y pesa 8 kilogramos."
+    },
+    {
+      "id": 117,
+      "slug": "seadra",
+      "name": "Seadra",
+      "category": "Pokémon Dragón",
+      "height": "1,2 m",
+      "weight": "25 kg",
+      "abilities": "Punto Tóxico · Francotirador · Humedad (oculta)",
+      "stats": [
+        55,
+        65,
+        95,
+        95,
+        45,
+        85
+      ],
+      "type": "Agua",
+      "description": "Se clasifica como Pokémon Dragón. Mide 1,2 metros y pesa 25 kilogramos."
+    },
+    {
+      "id": 118,
+      "slug": "goldeen",
+      "name": "Goldeen",
+      "category": "Pokémon Pez Color",
+      "height": "0,6 m",
+      "weight": "15 kg",
+      "abilities": "Nado Rápido · Velo Agua · Pararrayos (oculta)",
+      "stats": [
+        45,
+        67,
+        60,
+        35,
+        50,
+        63
+      ],
+      "type": "Agua",
+      "description": "Se clasifica como Pokémon Pez Color. Mide 0,6 metros y pesa 15 kilogramos."
+    },
+    {
+      "id": 119,
+      "slug": "seaking",
+      "name": "Seaking",
+      "category": "Pokémon Pez Color",
+      "height": "1,3 m",
+      "weight": "39 kg",
+      "abilities": "Nado Rápido · Velo Agua · Pararrayos (oculta)",
+      "stats": [
+        80,
+        92,
+        65,
+        65,
+        80,
+        68
+      ],
+      "type": "Agua",
+      "description": "Se clasifica como Pokémon Pez Color. Mide 1,3 metros y pesa 39 kilogramos."
+    },
+    {
+      "id": 120,
+      "slug": "staryu",
+      "name": "Staryu",
+      "category": "Pokémon Estrella",
+      "height": "0,8 m",
+      "weight": "34,5 kg",
+      "abilities": "Iluminación · Cura Natural · Cálculo Final (oculta)",
+      "stats": [
+        30,
+        45,
+        55,
+        70,
+        55,
+        85
+      ],
+      "type": "Agua",
+      "description": "Se clasifica como Pokémon Estrella. Mide 0,8 metros y pesa 34,5 kilogramos."
+    },
+    {
+      "id": 121,
+      "slug": "starmie",
+      "name": "Starmie",
+      "category": "Pokémon Misterioso",
+      "height": "1,1 m",
+      "weight": "80 kg",
+      "abilities": "Iluminación · Cura Natural · Cálculo Final (oculta)",
+      "stats": [
+        60,
+        75,
+        85,
+        100,
+        85,
+        115
+      ],
+      "type": "Agua · Psíquico",
+      "description": "Se clasifica como Pokémon Misterioso. Mide 1,1 metros y pesa 80 kilogramos."
+    },
+    {
+      "id": 122,
+      "slug": "mr-mime",
+      "name": "Mr. Mime",
+      "category": "Pokémon Barrera",
+      "height": "1,3 m",
+      "weight": "54,5 kg",
+      "abilities": "Insonorizar · Filtro · Experto (oculta)",
+      "stats": [
+        40,
+        45,
+        65,
+        100,
+        120,
+        90
+      ],
+      "type": "Psíquico · Hada",
+      "description": "Se clasifica como Pokémon Barrera. Mide 1,3 metros y pesa 54,5 kilogramos."
+    },
+    {
+      "id": 123,
+      "slug": "scyther",
+      "name": "Scyther",
+      "category": "Pokémon Mantis",
+      "height": "1,5 m",
+      "weight": "56 kg",
+      "abilities": "Enjambre · Experto · Impasible (oculta)",
+      "stats": [
+        70,
+        110,
+        80,
+        55,
+        80,
+        105
+      ],
+      "type": "Bicho · Volador",
+      "description": "Se clasifica como Pokémon Mantis. Mide 1,5 metros y pesa 56 kilogramos."
+    },
+    {
+      "id": 124,
+      "slug": "jynx",
+      "name": "Jynx",
+      "category": "Pokémon Forma Humana",
+      "height": "1,4 m",
+      "weight": "40,6 kg",
+      "abilities": "Despiste · Alerta · Piel Seca (oculta)",
+      "stats": [
+        65,
+        50,
+        35,
+        115,
+        95,
+        95
+      ],
+      "type": "Hielo · Psíquico",
+      "description": "Se clasifica como Pokémon Forma Humana. Mide 1,4 metros y pesa 40,6 kilogramos."
+    },
+    {
+      "id": 125,
+      "slug": "electabuzz",
+      "name": "Electabuzz",
+      "category": "Pokémon Eléctrico",
+      "height": "1,1 m",
+      "weight": "30 kg",
+      "abilities": "Electricidad Estática · Espíritu Vital (oculta)",
+      "stats": [
+        65,
+        83,
+        57,
+        95,
+        85,
+        105
+      ],
+      "type": "Eléctrico",
+      "description": "Se clasifica como Pokémon Eléctrico. Mide 1,1 metros y pesa 30 kilogramos."
+    },
+    {
+      "id": 126,
+      "slug": "magmar",
+      "name": "Magmar",
+      "category": "Pokémon Escupefuego",
+      "height": "1,3 m",
+      "weight": "44,5 kg",
+      "abilities": "Cuerpo Llama · Espíritu Vital (oculta)",
+      "stats": [
+        65,
+        95,
+        57,
+        100,
+        85,
+        93
+      ],
+      "type": "Fuego",
+      "description": "Se clasifica como Pokémon Escupefuego. Mide 1,3 metros y pesa 44,5 kilogramos."
+    },
+    {
+      "id": 127,
+      "slug": "pinsir",
+      "name": "Pinsir",
+      "category": "Pokémon Escarabajo",
+      "height": "1,5 m",
+      "weight": "55 kg",
+      "abilities": "Corte Fuerte · Rompemoldes · Autoestima (oculta)",
+      "stats": [
+        65,
+        125,
+        100,
+        55,
+        70,
+        85
+      ],
+      "type": "Bicho",
+      "description": "Se clasifica como Pokémon Escarabajo. Mide 1,5 metros y pesa 55 kilogramos."
+    },
+    {
+      "id": 128,
+      "slug": "tauros",
+      "name": "Tauros",
+      "category": "Pokémon Toro Bravo",
+      "height": "1,4 m",
+      "weight": "88,4 kg",
+      "abilities": "Intimidación · Irascible · Potencia Bruta (oculta)",
+      "stats": [
+        75,
+        100,
+        95,
+        40,
+        70,
+        110
+      ],
+      "type": "Normal",
+      "description": "Se clasifica como Pokémon Toro Bravo. Mide 1,4 metros y pesa 88,4 kilogramos."
+    },
+    {
+      "id": 129,
+      "slug": "magikarp",
+      "name": "Magikarp",
+      "category": "Pokémon Pez",
+      "height": "0,9 m",
+      "weight": "10 kg",
+      "abilities": "Nado Rápido · Cobardía (oculta)",
+      "stats": [
+        20,
+        10,
+        55,
+        15,
+        20,
+        80
+      ],
+      "type": "Agua",
+      "description": "Se clasifica como Pokémon Pez. Mide 0,9 metros y pesa 10 kilogramos."
+    },
+    {
+      "id": 130,
+      "slug": "gyarados",
+      "name": "Gyarados",
+      "category": "Pokémon Atrocidad",
+      "height": "6,5 m",
+      "weight": "235 kg",
+      "abilities": "Intimidación · Autoestima (oculta)",
+      "stats": [
+        95,
+        125,
+        79,
+        60,
+        100,
+        81
+      ],
+      "type": "Agua · Volador",
+      "description": "Se clasifica como Pokémon Atrocidad. Mide 6,5 metros y pesa 235 kilogramos."
+    },
+    {
+      "id": 131,
+      "slug": "lapras",
+      "name": "Lapras",
+      "category": "Pokémon Transporte",
+      "height": "2,5 m",
+      "weight": "220 kg",
+      "abilities": "Absorbe Agua · Caparazón · Hidratación (oculta)",
+      "stats": [
+        130,
+        85,
+        80,
+        85,
+        95,
+        60
+      ],
+      "type": "Agua · Hielo",
+      "description": "Se clasifica como Pokémon Transporte. Mide 2,5 metros y pesa 220 kilogramos."
+    },
+    {
+      "id": 132,
+      "slug": "ditto",
+      "name": "Ditto",
+      "category": "Pokémon Transformación",
+      "height": "0,3 m",
+      "weight": "4 kg",
+      "abilities": "Flexibilidad · Impostor (oculta)",
+      "stats": [
+        48,
+        48,
+        48,
+        48,
+        48,
+        48
+      ],
+      "type": "Normal",
+      "description": "Se clasifica como Pokémon Transformación. Mide 0,3 metros y pesa 4 kilogramos."
+    },
+    {
+      "id": 133,
+      "slug": "eevee",
+      "name": "Eevee",
+      "category": "Pokémon Evolución",
+      "height": "0,3 m",
+      "weight": "6,5 kg",
+      "abilities": "Fuga · Adaptable · Anticipación (oculta)",
+      "stats": [
+        55,
+        55,
+        50,
+        45,
+        65,
+        55
+      ],
+      "type": "Normal",
+      "description": "Se clasifica como Pokémon Evolución. Mide 0,3 metros y pesa 6,5 kilogramos."
+    },
+    {
+      "id": 134,
+      "slug": "vaporeon",
+      "name": "Vaporeon",
+      "category": "Pokémon Burbuja",
+      "height": "1 m",
+      "weight": "29 kg",
+      "abilities": "Absorbe Agua · Hidratación (oculta)",
+      "stats": [
+        130,
+        65,
+        60,
+        110,
+        95,
+        65
+      ],
+      "type": "Agua",
+      "description": "Se clasifica como Pokémon Burbuja. Mide 1 metro y pesa 29 kilogramos."
+    },
+    {
+      "id": 135,
+      "slug": "jolteon",
+      "name": "Jolteon",
+      "category": "Pokémon Relámpago",
+      "height": "0,8 m",
+      "weight": "24,5 kg",
+      "abilities": "Absorbe Electricidad · Pies Rápidos (oculta)",
+      "stats": [
+        65,
+        65,
+        60,
+        110,
+        95,
+        130
+      ],
+      "type": "Eléctrico",
+      "description": "Se clasifica como Pokémon Relámpago. Mide 0,8 metros y pesa 24,5 kilogramos."
+    },
+    {
+      "id": 136,
+      "slug": "flareon",
+      "name": "Flareon",
+      "category": "Pokémon Llama",
+      "height": "0,9 m",
+      "weight": "25 kg",
+      "abilities": "Absorbe Fuego · Agallas (oculta)",
+      "stats": [
+        65,
+        130,
+        60,
+        95,
+        110,
+        65
+      ],
+      "type": "Fuego",
+      "description": "Se clasifica como Pokémon Llama. Mide 0,9 metros y pesa 25 kilogramos."
+    },
+    {
+      "id": 137,
+      "slug": "porygon",
+      "name": "Porygon",
+      "category": "Pokémon Virtual",
+      "height": "0,8 m",
+      "weight": "36,5 kg",
+      "abilities": "Calco · Descarga · Cálculo Final (oculta)",
+      "stats": [
+        65,
+        60,
+        70,
+        85,
+        75,
+        40
+      ],
+      "type": "Normal",
+      "description": "Se clasifica como Pokémon Virtual. Mide 0,8 metros y pesa 36,5 kilogramos."
+    },
+    {
+      "id": 138,
+      "slug": "omanyte",
+      "name": "Omanyte",
+      "category": "Pokémon Espiral",
+      "height": "0,4 m",
+      "weight": "7,5 kg",
+      "abilities": "Nado Rápido · Caparazón · Armadura Frágil (oculta)",
+      "stats": [
+        35,
+        40,
+        100,
+        90,
+        55,
+        35
+      ],
+      "type": "Roca · Agua",
+      "description": "Se clasifica como Pokémon Espiral. Mide 0,4 metros y pesa 7,5 kilogramos."
+    },
+    {
+      "id": 139,
+      "slug": "omastar",
+      "name": "Omastar",
+      "category": "Pokémon Espiral",
+      "height": "1 m",
+      "weight": "35 kg",
+      "abilities": "Nado Rápido · Caparazón · Armadura Frágil (oculta)",
+      "stats": [
+        70,
+        60,
+        125,
+        115,
+        70,
+        55
+      ],
+      "type": "Roca · Agua",
+      "description": "Se clasifica como Pokémon Espiral. Mide 1 metro y pesa 35 kilogramos."
+    },
+    {
+      "id": 140,
+      "slug": "kabuto",
+      "name": "Kabuto",
+      "category": "Pokémon Armazón",
+      "height": "0,5 m",
+      "weight": "11,5 kg",
+      "abilities": "Nado Rápido · Armadura Batalla · Armadura Frágil (oculta)",
+      "stats": [
+        30,
+        80,
+        90,
+        55,
+        45,
+        55
+      ],
+      "type": "Roca · Agua",
+      "description": "Se clasifica como Pokémon Armazón. Mide 0,5 metros y pesa 11,5 kilogramos."
+    },
+    {
+      "id": 141,
+      "slug": "kabutops",
+      "name": "Kabutops",
+      "category": "Pokémon Armazón",
+      "height": "1,3 m",
+      "weight": "40,5 kg",
+      "abilities": "Nado Rápido · Armadura Batalla · Armadura Frágil (oculta)",
+      "stats": [
+        60,
+        115,
+        105,
+        65,
+        70,
+        80
+      ],
+      "type": "Roca · Agua",
+      "description": "Se clasifica como Pokémon Armazón. Mide 1,3 metros y pesa 40,5 kilogramos."
+    },
+    {
+      "id": 142,
+      "slug": "aerodactyl",
+      "name": "Aerodactyl",
+      "category": "Pokémon Fósil",
+      "height": "1,8 m",
+      "weight": "59 kg",
+      "abilities": "Cabeza Roca · Presión · Nerviosismo (oculta)",
+      "stats": [
+        80,
+        105,
+        65,
+        60,
+        75,
+        130
+      ],
+      "type": "Roca · Volador",
+      "description": "Se clasifica como Pokémon Fósil. Mide 1,8 metros y pesa 59 kilogramos."
+    },
+    {
+      "id": 143,
+      "slug": "snorlax",
+      "name": "Snorlax",
+      "category": "Pokémon Dormir",
+      "height": "2,1 m",
+      "weight": "460 kg",
+      "abilities": "Inmunidad · Sebo · Gula (oculta)",
+      "stats": [
+        160,
+        110,
+        65,
+        65,
+        110,
+        30
+      ],
+      "type": "Normal",
+      "description": "Se clasifica como Pokémon Dormir. Mide 2,1 metros y pesa 460 kilogramos."
+    },
+    {
+      "id": 144,
+      "slug": "articuno",
+      "name": "Articuno",
+      "category": "Pokémon Congelar",
+      "height": "1,7 m",
+      "weight": "55,4 kg",
+      "abilities": "Presión · Manto Níveo (oculta)",
+      "stats": [
+        90,
+        85,
+        100,
+        95,
+        125,
+        85
+      ],
+      "type": "Hielo · Volador",
+      "description": "Se clasifica como Pokémon Congelar. Mide 1,7 metros y pesa 55,4 kilogramos."
+    },
+    {
+      "id": 145,
+      "slug": "zapdos",
+      "name": "Zapdos",
+      "category": "Pokémon Eléctrico",
+      "height": "1,6 m",
+      "weight": "52,6 kg",
+      "abilities": "Presión · Electricidad Estática (oculta)",
+      "stats": [
+        90,
+        90,
+        85,
+        125,
+        90,
+        100
+      ],
+      "type": "Eléctrico · Volador",
+      "description": "Se clasifica como Pokémon Eléctrico. Mide 1,6 metros y pesa 52,6 kilogramos."
+    },
+    {
+      "id": 146,
+      "slug": "moltres",
+      "name": "Moltres",
+      "category": "Pokémon Llama",
+      "height": "2 m",
+      "weight": "60 kg",
+      "abilities": "Presión · Cuerpo Llama (oculta)",
+      "stats": [
+        90,
+        100,
+        90,
+        125,
+        85,
+        90
+      ],
+      "type": "Fuego · Volador",
+      "description": "Se clasifica como Pokémon Llama. Mide 2 metros y pesa 60 kilogramos."
+    },
+    {
+      "id": 147,
+      "slug": "dratini",
+      "name": "Dratini",
+      "category": "Pokémon Dragón",
+      "height": "1,8 m",
+      "weight": "3,3 kg",
+      "abilities": "Mudar · Escama Especial (oculta)",
+      "stats": [
+        41,
+        64,
+        45,
+        50,
+        50,
+        50
+      ],
+      "type": "Dragón",
+      "description": "Se clasifica como Pokémon Dragón. Mide 1,8 metros y pesa 3,3 kilogramos."
+    },
+    {
+      "id": 148,
+      "slug": "dragonair",
+      "name": "Dragonair",
+      "category": "Pokémon Dragón",
+      "height": "4 m",
+      "weight": "16,5 kg",
+      "abilities": "Mudar · Escama Especial (oculta)",
+      "stats": [
+        61,
+        84,
+        65,
+        70,
+        70,
+        70
+      ],
+      "type": "Dragón",
+      "description": "Se clasifica como Pokémon Dragón. Mide 4 metros y pesa 16,5 kilogramos."
+    },
+    {
+      "id": 149,
+      "slug": "dragonite",
+      "name": "Dragonite",
+      "category": "Pokémon Dragón",
+      "height": "2,2 m",
+      "weight": "210 kg",
+      "abilities": "Fuerza Mental · Multiescamas (oculta)",
+      "stats": [
+        91,
+        134,
+        95,
+        100,
+        100,
+        80
+      ],
+      "type": "Dragón · Volador",
+      "description": "Se clasifica como Pokémon Dragón. Mide 2,2 metros y pesa 210 kilogramos."
+    },
+    {
+      "id": 150,
+      "slug": "mewtwo",
+      "name": "Mewtwo",
+      "category": "Pokémon Genético",
+      "height": "2 m",
+      "weight": "122 kg",
+      "abilities": "Presión · Nerviosismo (oculta)",
+      "stats": [
+        106,
+        110,
+        90,
+        154,
+        90,
+        130
+      ],
+      "type": "Psíquico",
+      "description": "Se clasifica como Pokémon Genético. Mide 2 metros y pesa 122 kilogramos."
+    },
+    {
+      "id": 151,
+      "slug": "mew",
+      "name": "Mew",
+      "category": "Pokémon Nueva Especie",
+      "height": "0,4 m",
+      "weight": "4 kg",
+      "abilities": "Sincronía",
+      "stats": [
+        100,
+        100,
+        100,
+        100,
+        100,
+        100
+      ],
+      "type": "Psíquico",
+      "description": "Se clasifica como Pokémon Nueva Especie. Mide 0,4 metros y pesa 4 kilogramos."
+    }
+  ]
+}
